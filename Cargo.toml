@@ -1,0 +1,7 @@
+[package]
+name = "estudos-alg-e-dados"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+petgraph = "0.7.1"
